@@ -1,0 +1,13 @@
+# Binaries
+ChromeSetup.exe
+
+# Logs & temp files
+*.log
+.gemini/
+raw_tutor.jpg
+
+# Portable Git
+.git-portable/
+
+# Source ZIP
+Tuition4all-main.zip
